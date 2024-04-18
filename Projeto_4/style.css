@@ -1,0 +1,12 @@
+body{
+    background: salmon;
+}
+
+h1{
+    font-size: 85px;
+    font-family: 'Jersey 10', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 1500;
+    text-shadow: 4px 4px;
+    color: rgb(63, 28, 58);
+    text-align: center;
+}
