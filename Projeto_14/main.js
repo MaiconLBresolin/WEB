@@ -5,4 +5,4 @@ for (var i = 0; i<3; i++){
     corList.push(cor)
 }
 
-alert(`Sua lista de cores é ${corList[0]}, ${corList[1]} e ${corList[2]}`)
+alert(`Sua lista de cores é ${corList[0]}, ${corList[1]} e ${corList[2]}`) 
