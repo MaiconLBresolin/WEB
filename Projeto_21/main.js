@@ -4,5 +4,6 @@ let ageInput = document.getElementById('age-input')
 checkButton.addEventListener('click', function(){
     let age = ageInput.value;
     let message = (age >= 18) ? "You are an adult" : "You are not an adult yet"
-    alert(message);     
+    alert(message); 
+    ageInput.value = '';   
 })
