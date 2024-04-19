@@ -5,6 +5,6 @@ function getRandomInt(max) {
 }
 
 function changeColor(){
-    bgColor = colorList[getRandomInt(colorList.length-1)];
+    bgColor = colorList[getRandomInt(colorList.length)];
     document.body.style.backgroundColor = bgColor;
 }
