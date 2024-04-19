@@ -1,7 +1,9 @@
 let cor = ' ';
 let corList = [];
+let corCounter = 0;
 for (var i = 0; i<3; i++){
-    cor = prompt("Digite sua cor: ")
+    corCounter = corCounter+1;
+    cor = prompt(`Digite sua cor numero ${corCounter}: `)
     corList.push(cor)
 }
 
