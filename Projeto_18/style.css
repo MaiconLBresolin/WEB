@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h1{
+    font-size: 50px;
+    font-weight: 100;
+}
+
+p{
+    font-size: 29px;
+}
+
+#button{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    background-color: aqua;
+    border-radius: 20px;
+    box-shadow: none;
+    height: 30px;
+    width: 400px;
+    cursor: pointer;
+}
